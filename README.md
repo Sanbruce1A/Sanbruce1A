@@ -9,3 +9,4 @@
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+<img align="right" alt="Coding" width="300" height="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fstore.steampowered.com%2Fapp%2F1817070%2FMarvels_SpiderMan_Remastered%2F&psig=AOvVaw06JCKIf2KI80n9IYQY8qxk&ust=1668168036495000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCLiBgKzIo_sCFQAAAAAdAAAAABAE">
