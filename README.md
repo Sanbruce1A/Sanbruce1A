@@ -1,3 +1,5 @@
 <h1 style="font-family:script;" align="center"> Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 , I'm Sanbruce1A</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Sanbruce1A&label=Profile%20views&color=0e75b6&style=flat" alt="Sanbruce1A" /> </p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanbruce1A&layout=compact&theme=dark&hide_border=false" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Sanbruce1A&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=dark&hide_border=false&border_radius=2&hide=contribs" alt="Sanbruce1A's github stats" /></p>
