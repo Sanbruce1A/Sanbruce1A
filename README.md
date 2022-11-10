@@ -4,3 +4,5 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanbruce1A&layout=compact&theme=dark&hide_border=false" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Sanbruce1A&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=dark&hide_border=false&border_radius=2&hide=contribs" alt="Sanbruce1A's github stats" /></p>
 <a href="https://github.com/Sanbruce1A/github-readme-activity-graph"><img alt="Sanbruce1A' Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Sanbruce1A&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
